@@ -28,7 +28,6 @@ const H1 = styled.h1`
   color: #000;
 `
 const SpanData = styled.span`
-  align-self: flex-end;
   font-size: 11px;
   font-weight: bold;
   letter-spacing: 1px;

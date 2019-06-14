@@ -1,5 +1,16 @@
 import React from 'react';
+import styled from 'styled-components'
 
+const TopBarDiv = styled.div`
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: none;
+  flex-direction: row;
+  position: fixed;
+  height: 44px;
+  background-color: #333;
+`
 // Refactor this component to use styled components and not classNames. 
 // You can find the corresponding CSS in the CSS/index.css file
 
